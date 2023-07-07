@@ -1,4 +1,4 @@
-package cl.awakelab.model.con;
+package cl.awakelab.model.cnn;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

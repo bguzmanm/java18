@@ -1,6 +1,6 @@
 package cl.awakelab.model.dao;
 
-import cl.awakelab.model.con.DataBase;
+import cl.awakelab.model.cnn.DataBase;
 import cl.awakelab.model.dto.Actor;
 
 import java.sql.Connection;
